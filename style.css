@@ -1,0 +1,27 @@
+body {
+    background-color: #91afe4;
+}
+
+nav, h3, p, img, h1, h2{ 
+    text-align: center;
+    color: darkblue;
+}
+h1, a{
+    font-family: "Staatliches", cursive;
+    color: darkblue;
+}
+nav{
+    font-size: larger;
+}
+img row {
+        display: flex;
+        align-items: center;
+        }
+
+h3, footer {
+    font-family: 'Zilla Slab', serif;
+    color: darkblue;
+}
+footer {
+    text-align: start;
+}
